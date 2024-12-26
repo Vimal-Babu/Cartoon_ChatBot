@@ -1,4 +1,5 @@
 import tkinter as tk
+from cartoon_chatbot import CartoonChatbot
 
 class CartoonChatbotGUI:
     def __init__(self, root):
