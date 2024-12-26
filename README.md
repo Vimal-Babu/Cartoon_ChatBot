@@ -9,4 +9,4 @@ This is a simple rule-based chatbot that answers questions about various cartoon
 3. Open a terminal or command prompt.
 4. Run the chatbot by executing the script:
    ```bash
-   python chatbot.py
+   python chatboat_gui.py
